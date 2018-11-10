@@ -1,4 +1,4 @@
-# Object detection image_Verion 2
+# Object detection image Version 2
 
 Objetive: Object detection Image 
 
