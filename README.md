@@ -1,17 +1,18 @@
-# MR_Object-detection-image_Ver2
+# Object detection image_Verion 2
 
 Objetive: Object detection Image 
 
 https://github.com/OlafenwaMoses/ImageAI
 
+### Install model
 pip install keras-retinanet
 
-<br/>Activate environement retinanet instaled on anaconta
+### Activate environement retinanet instaled on anaconta
 <br/>At CMD command executed with administrator
 <br/>cmd.exe  
 <br/>> activate retinanet
 
-<br/>To compile Keras-retinanet:
+### To compile Keras-retinanet:
 <br/>1. Clone Git retinanet from Github and have a download in your machine
 <br/>2. Go to the command line: 
 <br/>	CMD.exe
@@ -27,10 +28,11 @@ pip install keras-retinanet
 <br/>Install Cython in anaconda
 <br/>conda install -c anaconda cython
 
-Example image to detect:
+### Example image to detect:
 <br/>
 ![](image/IMG-20180328-WA0009.jpg?raw=true)
 <br/>
+
 Image Detection
 <br/>
 ![](image/IMG-20180328-WA0009_detection.jpg?raw=true)
