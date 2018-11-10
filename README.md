@@ -26,3 +26,11 @@ pip install keras-retinanet
 
 <br/>Install Cython in anaconda
 <br/>conda install -c anaconda cython
+
+Example image to detect:
+<br/>
+![](image/IMG-20180328-WA0009.jpg?raw=true)
+<br/>
+Image Detection
+<br/>
+![](image/IMG-20180328-WA0009_detection.jpg?raw=true)
